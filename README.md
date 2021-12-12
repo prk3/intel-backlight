@@ -39,3 +39,7 @@ intel-backlight -10 # decrease backlight brightness by 10% of the max value
 ```
 
 Calling the tool with no arguments prints a help message.
+
+# License
+
+MIT
